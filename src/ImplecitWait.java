@@ -1,4 +1,5 @@
 import java.time.Duration;
+import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -39,7 +40,9 @@ static WebDriver driver;
 		
 		//Fluent wait
 		Wait <WebDriver> fWait = new FluentWait<WebDriver>(driver)
-								.withTimeout(Duration.ofSeconds(10)).pollingEvery(Durati)
+								.withTimeout(Duration.ofSeconds(10)).pollingEvery(Duration.ofSeconds(30))
+								.pollingEvery(Duration.ofSeconds(5))
+								.ignoring(NoSuchElementException.class);
 							
 		
 		
