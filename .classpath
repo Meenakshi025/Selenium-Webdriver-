@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_91"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/httpclient5-5.0.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/httpcore5-5.0.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/httpcore5-h2-5.0.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/WebdriverManager_Jars/webdrivermanager-4.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/All_Softwares/Selenium_JarFiles/Selenium_Jars/selenium-server-standalone-4.0.0-alpha-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
