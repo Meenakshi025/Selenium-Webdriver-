@@ -45,7 +45,7 @@ static WebDriver driver;
 								.ignoring(NoSuchElementException.class);
 							
 		
-		
+		driver.quit();
 		
 
 	}
